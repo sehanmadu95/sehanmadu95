@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Spring Boot, Python AWS Cloud**
 
-- 💬 Ask me about **JAVA, HTML, CSS, C++, VB,**
+- 💬 Ask me about **JAVA, Spring-Boot, HTML, CSS, Bootstrap, Angular, C++, VB, MySQL, SQL**
 
 - 📫 How to reach me **sehanmadushanka0714@gmail.com**
 
