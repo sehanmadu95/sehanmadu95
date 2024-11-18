@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm J.A.S.Madushanka</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jonesday.com%2Fen%2Finsights%2F2019%2F05%2Fwhen-coding-is-criminal&psig=AOvVaw1NqKUu59vZpw5DkwDBuGxI&ust=1731986015735000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDY4N705IkDFQAAAAAdAAAAABAE">
+<p>"IF DETERMINATION IS VICTORY, THE ABILITY MUST BE AMAZING" is the motto of my life. Opportunities are always welcomed anytime in my life and I love to take risks and challenges in my life. I loved to deliver my best at any given task and complete it without disappointment.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan1210&label=Profile%20views&color=0e75b6&style=flat" alt="shehan1210" /> </p>
 
